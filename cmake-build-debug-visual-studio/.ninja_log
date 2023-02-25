@@ -1,10 +1,12 @@
 # ninja log v5
-0	1876	6990271153857554	CMakeFiles/Sandbox.dir/src/main.cpp.obj	3f8e5586546fcc5e
-1861	1965	6990269575461449	Sandbox.exe	7214bafd03be6838
-1	72	6990275508415269	build.ninja	8fbcd54b0df991e2
-0	1874	6990264489941718	CMakeFiles/Sandbox.dir/src/logger/log.cpp.obj	78446e1da0d85
-0	1982	6990275545375270	CMakeFiles/Sandbox.dir/src/logger/log.cpp.obj	78446e1da0d85
-0	1986	6990275877235536	CMakeFiles/Sandbox.dir/src/parser/parser.cpp.obj	bc24ed1de47d9511
-1990	2222	6990275879385564	Sandbox.exe	b4aa53e45ed889bc
 1	1774	6990276107444632	CMakeFiles/Sandbox.dir/src/parser/parser.cpp.obj	bc24ed1de47d9511
+0	1876	6990271153857554	CMakeFiles/Sandbox.dir/src/main.cpp.obj	3f8e5586546fcc5e
 1779	1883	6990276108354639	Sandbox.exe	b4aa53e45ed889bc
+1	72	6990302792482415	build.ninja	8fbcd54b0df991e2
+0	1982	6990275545375270	CMakeFiles/Sandbox.dir/src/logger/log.cpp.obj	78446e1da0d85
+1	160	6990302792482415	build.ninja	8fbcd54b0df991e2
+0	2266	6990302815822421	CMakeFiles/Sandbox.dir/src/parser/parser.cpp.obj	bc24ed1de47d9511
+58	2351	6990302816672407	CMakeFiles/Sandbox.dir/src/logger/log.cpp.obj	78446e1da0d85
+2357	2688	6990302819782408	Sandbox.exe	b4aa53e45ed889bc
+0	1853	6990303114637052	CMakeFiles/Sandbox.dir/src/main.cpp.obj	3f8e5586546fcc5e
+0	1779	6990303253311481	CMakeFiles/Sandbox.dir/src/main.cpp.obj	3f8e5586546fcc5e

@@ -94,7 +94,7 @@ CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/Sandbox
 CMAKE_LINKER:FILEPATH=C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx86/x86/link.exe
 
 //make program
-CMAKE_MAKE_PROGRAM:FILEPATH=C:/Users/Ben Erwan/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/ninja/win/x64/ninja.exe
+CMAKE_MAKE_PROGRAM:FILEPATH=C:/Users/BENERW~1/AppData/Local/JETBRA~1/Toolbox/apps/CLion/ch-0/223861~1.54/bin/ninja/win/x64/ninja.exe
 
 //Flags used by the linker during the creation of modules during
 // all build types.

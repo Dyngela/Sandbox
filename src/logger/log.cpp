@@ -1,10 +1,4 @@
-//
-// Created by Ben Erwan on 25/02/2023.
-//
-
-#include "spdlog/sinks/stdout_color_sinks.h"
 #include "log.h"
-
 
 namespace NE
 {

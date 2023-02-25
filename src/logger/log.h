@@ -1,11 +1,12 @@
-//
-// Created by Ben Erwan on 25/02/2023.
-//
-
+/*
+ * Created by Erwan Nutz on 25/02/2023.
+ * Purpose of this is to have a fast logging system for development purpose
+ */
 #pragma once
 
 #include "spdlog/spdlog.h"
 #include "spdlog/fmt/ostr.h"
+#include "spdlog/sinks/stdout_color_sinks.h"
 
 namespace NE
 {

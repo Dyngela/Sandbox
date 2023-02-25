@@ -1,7 +1,3 @@
-//
-// Created by Ben Erwan on 25/02/2023.
-//
-
 #include "parser.h"
 
 namespace NE

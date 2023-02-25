@@ -1,0 +1,3 @@
+C:/dev/C++/Sandbox/cmake-build-debug-visual-studio/CMakeFiles/Sandbox.dir
+C:/dev/C++/Sandbox/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+C:/dev/C++/Sandbox/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir

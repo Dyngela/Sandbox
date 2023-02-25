@@ -1,3 +1,0 @@
-C:/dev/C++/Sandbox/bin/CMakeFiles/Sandbox.dir
-C:/dev/C++/Sandbox/bin/CMakeFiles/ALL_BUILD.dir
-C:/dev/C++/Sandbox/bin/CMakeFiles/ZERO_CHECK.dir
